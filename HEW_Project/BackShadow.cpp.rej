@@ -1,0 +1,15 @@
+diff a/HEW_Project/BackShadow.cpp b/HEW_Project/BackShadow.cpp	(rejected hunks)
+@@ -286,11 +286,11 @@
+ 					{
+ 						if (m_LRcheck == false)
+ 						{
+-							m_alpha = pData[(m_indexY - j) * width + m_indexX + 10 + i].a;	//レンダーウィンドウのα値を左上から一つずつ見てる
++							m_alpha = pData[(m_indexY - j) * width + m_indexX + 7 + i].a;	//レンダーウィンドウのα値を左上から一つずつ見てる
+ 						}
+ 						else
+ 						{
+-							m_alpha = pData[(m_indexY - j) * width + m_indexX - 10 - i].a;
++							m_alpha = pData[(m_indexY - j) * width + m_indexX - 7 - i].a;	//(プレイヤーposY - 高さ) * 横幅 + プレイヤーposX - サイズ - 見たい横幅
+ 						}
+ 
+ 						if (m_alpha > 200)

@@ -1,0 +1,49 @@
+﻿  compilation object save succeeded; see C:\Users\mokit\Desktop\DX22\DX22Base\Assets\Shader\PS_Model_Color.cso
+  compilation object save succeeded; see C:\Users\mokit\Desktop\DX22\DX22Base\Assets\Shader\VS_Model.cso
+  CameraBase.cpp
+  CameraDebug.cpp
+  CameraPlayer.cpp
+  Collision.cpp
+  CPUCar.cpp
+  DirectX.cpp
+  Effect.cpp
+  Fade.cpp
+  Field.cpp
+c:\users\mokit\desktop\dx22\dx22base\field.cpp(103): warning C4267: 'return': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  goalPoll.cpp
+  Input.cpp
+  ItemUI.cpp
+  MeshBuffer.cpp
+  Geometory.cpp
+  Main.cpp
+  meter.cpp
+  Model.cpp
+c:\users\mokit\desktop\dx22\dx22base\model.cpp(145): error C2065: 'm_errorStr': 定義されていない識別子です。
+  MoveEmitter.cpp
+  number.cpp
+  Player.cpp
+  コンパイル中...
+  Polyline.cpp
+c:\users\mokit\desktop\dx22\dx22base\polyline.cpp(264): warning C4267: 'return': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  Road.cpp
+c:\users\mokit\desktop\dx22\dx22base\road.cpp(72): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  RoadEffect.cpp
+  SceneManager.cpp
+  SceneResult.cpp
+  SceneTitle.cpp
+  Shader.cpp
+  signal.cpp
+  Skydome.cpp
+  spItem.cpp
+c:\users\mokit\desktop\dx22\dx22base\spitem.cpp(124): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  Sprite.cpp
+  Startup.cpp
+  Texture.cpp
+  SceneGame.cpp
+  TrailEffect.cpp
+c:\users\mokit\desktop\dx22\dx22base\traileffect.cpp(51): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  _geometory.cpp
+  _model.cpp
+c:\users\mokit\desktop\dx22\dx22base\_model.cpp(61): warning C4267: '=': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+c:\users\mokit\desktop\dx22\dx22base\_model.cpp(64): warning C4267: '=': 'size_t' から 'UINT' に変換しました。データが失われているかもしれません。
+c:\users\mokit\desktop\dx22\dx22base\_model.cpp(130): error C2065: 'm_errorStr': 定義されていない識別子です。
