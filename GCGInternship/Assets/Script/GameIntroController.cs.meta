@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ca71fc1d3dc90024e929a1e1c707cbe3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - videoPlayer: {instanceID: 0}
+  - image: {instanceID: 0}
+  - startButton: {instanceID: 0}
+  - titleScreen: {instanceID: 0}
+  - finalImage: {fileID: 21300000, guid: 634fa22868993094597daea605575d60, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

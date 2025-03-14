@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 76a9dfc8bd0511841909d7aa060895cc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wingEffectPrefab: {fileID: 1217474494966352720, guid: 662e0164ff5d08442920feccdbfb6f8d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

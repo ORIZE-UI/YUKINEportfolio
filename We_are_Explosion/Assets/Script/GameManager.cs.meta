@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f4ed9cce587b76a4a9da6904a142bf86
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerPrefab: {fileID: 4080525696709045673, guid: 7b7834aa4bc44434f8ade1d7baa3f922, type: 3}
+  - livesImage: {instanceID: 0}
+  - blueSprite: {instanceID: 0}
+  - yellowSprite: {instanceID: 0}
+  - redSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
